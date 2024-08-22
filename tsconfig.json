@@ -11,7 +11,9 @@
   "include": [
     "**/*.ts",
     "**/*.tsx",
+    "app/_layout.tsx",
+    "clerkConfig.jsx",
     ".expo/types/**/*.ts",
     "expo-env.d.ts"
-  ]
+, "app/auth/sign-in.jsx", "app/ctx/session.jsx"  ]
 }
